@@ -1,0 +1,21 @@
+.bg-img1{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(img/360_F_363241433_YT4UVLrfHTsqmfL5b2OXo5oRzAAeQSQo.jpg);
+}
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(img/FlRvgp.jpg);
+}
+
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(img/lake-blue-moonlight-moon-wallpaper-thumb.jpg);
+    
+}
+
+.carousel-item{
+    height:600px;
+}
